@@ -12,7 +12,7 @@ or
 Clone this repository locally:
 
 ``` bash
-git clone https://github.com/adlerluiz/CryptoBar.git
+git clone https://github.com/thidulb/CryptoBar
 ```
 
 Install dependencies with npm:
